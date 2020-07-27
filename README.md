@@ -1,4 +1,5 @@
 # Note Keeper
+![License: Mark Kelly](https://img.shields.io/badge/License-Mark_Kelly-brightgreen.svg)
 
 ## Description
 
